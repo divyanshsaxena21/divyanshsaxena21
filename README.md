@@ -136,7 +136,6 @@ Ranked in **Top 5% nationally** for building a Smart Water Monitoring ML System 
 ## 📊 GitHub Metrics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=divyanshsaxena21&show_icons=true&theme=tokyonight&hide_border=true"/>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshsaxena21&theme=tokyonight&hide_border=true"/>
 </p>
