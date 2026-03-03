@@ -65,26 +65,45 @@ Ranked in **Top 5% nationally** for building a Smart Water Monitoring ML System 
 
 ---
 
-## 🏅 LeetCode Achievements
+## 🏅 LeetCode Consistency & Medals
 
 <p align="center">
 
+<!-- Submission Streaks -->
 <a href="https://leetcode.com/u/Divyansh_Saxena/">
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/knight.png" width="120"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/500-days.png" width="110"/>
 </a>
 
 <a href="https://leetcode.com/u/Divyansh_Saxena/">
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="120"/>
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/365-days.png" width="110"/>
 </a>
 
-<a href="https://assets.leetcode.com/static_assets/marketing/2024-200.gif">
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="120"/>
+<a href="https://leetcode.com/u/Divyansh_Saxena/">
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/200-days.png" width="110"/>
+</a>
+
+<a href="https://leetcode.com/u/Divyansh_Saxena/">
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/100-days.png" width="110"/>
+</a>
+
+<a href="https://leetcode.com/u/Divyansh_Saxena/">
+<img src="https://assets.leetcode.com/static_assets/public/images/badges/50-days.png" width="110"/>
 </a>
 
 </p>
 
----
+<p align="center">
 
+<!-- Annual Badges -->
+<a href="https://leetcode.com/u/Divyansh_Saxena/">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="110"/>
+</a>
+
+<a href="https://leetcode.com/u/Divyansh_Saxena/">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="110"/>
+</a>
+
+</p>
 ## 🧠 LeetCode Heatmap
 
 <p align="center">
