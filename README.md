@@ -1,14 +1,12 @@
-<div align="center">
+<h1 align="center">DIVYANSH SAXENA</h1>
 
-<img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="70"/>
+<p align="center">
+AI Engineer | Game Developer | Full Stack Builder
+</p>
 
-# <span style="color:#BB86FC;">DIVYANSH SAXENA</span>
-
-### ⚡ AI ENGINEER  •  🎮 GAME DEVELOPER  •  🌐 SYSTEM ARCHITECT
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=BB86FC&center=true&vCenter=true&width=950&height=100&lines=Machine+Learning+Engineer;Computer+Vision+Builder;Unity+%26+Unreal+Developer;Top+5%25+National+ML+Rank;Competitive+Programmer" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Top+5%25+National+ML+Rank;Computer+Vision+Systems;Unity+%26+Unreal+Development;Competitive+Programming" />
+</p>
 
 ---
 
