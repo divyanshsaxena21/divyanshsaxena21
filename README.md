@@ -70,10 +70,6 @@ Ranked in **Top 5% nationally** for building a Smart Water Monitoring ML System 
 <p align="center">
 
 <a href="https://leetcode.com/u/Divyansh_Saxena/">
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/guardian.png" width="120"/>
-</a>
-
-<a href="https://leetcode.com/u/Divyansh_Saxena/">
 <img src="https://assets.leetcode.com/static_assets/public/images/badges/knight.png" width="120"/>
 </a>
 
