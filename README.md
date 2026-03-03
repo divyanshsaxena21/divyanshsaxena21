@@ -65,36 +65,30 @@ Ranked in **Top 5% nationally** for building a Smart Water Monitoring ML System 
 
 ---
 
-## 🏅 LeetCode Consistency & Medals
+## 🏅 LeetCode Consistency
 
 <p align="center">
 
-<!-- Submission Streaks -->
 <a href="https://leetcode.com/u/Divyansh_Saxena/">
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/500-days.png" width="110"/>
+<img src="https://img.shields.io/badge/🔥%20500%2B%20Days-Active%20Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://leetcode.com/u/Divyansh_Saxena/">
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/365-days.png" width="110"/>
+<img src="https://img.shields.io/badge/💎%20365%20Days-Consistency-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://leetcode.com/u/Divyansh_Saxena/">
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/200-days.png" width="110"/>
+<img src="https://img.shields.io/badge/⚡%20200%20Days-Submission%20Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://leetcode.com/u/Divyansh_Saxena/">
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/100-days.png" width="110"/>
-</a>
-
-<a href="https://leetcode.com/u/Divyansh_Saxena/">
-<img src="https://assets.leetcode.com/static_assets/public/images/badges/50-days.png" width="110"/>
+<img src="https://img.shields.io/badge/🚀%20100%20Days-Submission%20Streak-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<!-- Annual Badges -->
 <a href="https://leetcode.com/u/Divyansh_Saxena/">
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="110"/>
 </a>
