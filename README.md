@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB86FC,100:00F7FF&height=220&section=header&text=Divyansh%20Saxena&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
 
-# 👋 Hi, I'm Divyansh Saxena
+# 👋 Hi, I'm **Divyansh Saxena**
 
 ### 🧠 AI / ML Engineer · 🌐 Full-Stack Engineer · 👁️ Computer Vision · 🎮 Game Developer · 🔬 Researcher
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=800&color=BB86FC&center=true&vCenter=true&width=950&height=80&lines=Building+Intelligent+Systems;Machine+Learning+%26+Computer+Vision;Full-Stack+Frontend+%26+Backend+Engineering;AI+Agents+%26+LLM+Applications;Unity+%26+Unreal+Game+Development;Blockchain+%26+Deep+Learning+Research"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=800&color=BB86FC&center=true&vCenter=true&width=950&height=80&lines=Building+Intelligent+Systems;Machine+Learning+%26+Computer+Vision;AI+Agents+%26+LLM+Applications;Full-Stack+Frontend+%26+Backend+Engineering;Unity+%26+Unreal+Game+Development;Blockchain+%26+Deep+Learning+Research"/>
 
 <br/>
 
@@ -30,6 +30,10 @@
 <img src="https://img.shields.io/badge/Codolio-DVS21-BB86FC?style=for-the-badge"/>
 </a>
 
+<a href="https://divyanshsaxena1978.wixstudio.io/portfolio">
+<img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge"/>
+</a>
+
 </div>
 
 ---
@@ -40,7 +44,7 @@ I'm a **Computer Science Engineer** interested in building intelligent, interact
 
 My work spans **Artificial Intelligence, Machine Learning, Computer Vision, AI Agents, Full-Stack Development, Game Development and Deep Learning Research**.
 
-I enjoy taking a problem from idea to implementation — designing the architecture, building the backend and frontend, integrating AI models and APIs, working with databases, and turning the final system into a usable application.
+I enjoy taking a problem from idea to implementation — designing the architecture, building the frontend and backend, integrating AI models and APIs, working with databases, and turning the final system into a usable application.
 
 ### What I Build
 
@@ -55,27 +59,11 @@ I enjoy taking a problem from idea to implementation — designing the architect
 - 💻 **Data Structures & Algorithms**
 - ☁️ **Cloud & Modern Development Technologies**
 
-### Currently Focused On
+### Engineering Philosophy
 
-```text
-AI / ML
-   ├── Machine Learning
-   ├── Deep Learning
-   ├── Computer Vision
-   └── AI Agents / LLM Applications
+> **Build the system, not just the model.**
 
-Software Engineering
-   ├── Frontend Development
-   ├── Backend Development
-   ├── REST APIs
-   └── Database Systems
-
-Research
-   ├── Blockchain Analytics
-   ├── CNN
-   ├── LSTM
-   └── Graph Neural Networks
-```
+I like working across the complete development lifecycle — from understanding the problem and designing the architecture to implementing the software, integrating intelligent components and evaluating the final system.
 
 ---
 
@@ -99,7 +87,7 @@ Research
 | 🔥 Competitive Programming | **500+ day active LeetCode journey** |
 | 💼 Industry Experience | **Full Stack Developer Intern — The Singh Studios** |
 | 🔬 Research | Co-author of an ongoing Blockchain + Deep Learning research manuscript |
-| 🧠 AI | AI Agents, LLM applications, ML and Computer Vision |
+| 🤖 AI | AI Agents, LLM applications, Machine Learning and Computer Vision |
 | 🌐 Software Engineering | Full-stack frontend, backend, APIs and databases |
 | 🎮 Interactive Systems | Unity, Unreal Engine and Computer Vision-based interaction |
 
@@ -111,7 +99,7 @@ Research
 
 **Remote · May 2025 – August 2025 · 4-Month Technical Internship**
 
-During my internship, I worked on full-stack application development with a focus on frontend development, backend workflows, authentication and API development.
+Worked on full-stack application development with a focus on frontend development, backend workflows, authentication and API development.
 
 ### Responsibilities
 
@@ -135,19 +123,23 @@ During my internship, I worked on full-stack application development with a focu
 
 ### Research Paper · Work in Progress · Under Review
 
-**Authors:**  
+**Authors**
+
 Rohit Saxena · Atul Gupta · Aseem Pradhan · **Divyansh Saxena** · Asmita Chaurasia
 
-**Institution:**  
+**Institution**
+
 Pranveer Singh Institute of Technology, Kanpur
 
-**Research Classification:**  
+**Research Classification**
+
 Data Mining
 
-**Research Areas:**  
-Blockchain · Bitcoin · Cryptocurrency · Deep Learning · Graph Learning · Transaction Classification
+**Research Areas**
 
-> ⚠️ **Publication Status:** This research manuscript is currently **not published**. The work is still in progress and the review process is ongoing.
+`Blockchain` `Bitcoin` `Cryptocurrency` `Deep Learning` `Graph Learning` `Transaction Classification`
+
+> ⚠️ **Publication Status:** This manuscript is currently **not published**. The research work is still in progress and the review process is ongoing.
 
 ---
 
@@ -242,7 +234,7 @@ Integrated Transaction Classification
 
 # 🚀 Featured Projects
 
-> All projects in this section were independently designed and developed.
+> All projects below were independently designed and developed.
 
 ---
 
@@ -252,7 +244,7 @@ Integrated Transaction Classification
 
 VoxHire is an AI-powered interview platform designed to automate and structure the interview process.
 
-Instead of using a static questionnaire, the system uses an AI-driven interview flow capable of dynamically generating follow-up questions based on the candidate's responses.
+Instead of relying on a static questionnaire, the system uses an AI-driven interview flow capable of dynamically generating follow-up questions based on candidate responses.
 
 ### What It Does
 
@@ -309,11 +301,11 @@ AI Interview
     Dynamic Interview Logic
 ```
 
-### Technical Stack
+### Technology
 
 `Next.js` `TypeScript` `TailwindCSS` `Socket.IO` `Go` `Gin` `MongoDB` `LangChain` `Groq` `JWT`
 
-### Engineering Concepts
+### Engineering Focus
 
 - AI Agent Architecture
 - Context-aware question generation
@@ -331,9 +323,9 @@ AI Interview
 
 ### Voice-Controlled AI Shopping Assistant
 
-EchoBasket is a full-stack smart shopping system that combines **voice interaction, AI recommendations, real-time cart management and cloud-backed application services**.
+EchoBasket is a full-stack smart shopping system combining **voice interaction, AI recommendations, real-time cart management and cloud-backed application services**.
 
-The project explores how natural-language voice interaction can be used as an alternative interface for everyday shopping workflows.
+The project explores how natural-language voice interaction can become an alternative interface for everyday shopping workflows.
 
 ### Core Capabilities
 
@@ -394,9 +386,9 @@ The project explores how natural-language voice interaction can be used as an al
 
 ### AI-Powered Nutrition Analysis System
 
-CalQulate is an AI-powered nutrition assistant that processes food-label images and converts the extracted information into a structured nutritional analysis.
+CalQulate is an AI-powered nutrition assistant that processes food-label images and converts extracted information into structured nutritional analysis.
 
-The system combines **computer vision / OCR, cloud services, backend processing and generative AI**.
+The system combines **OCR, cloud services, backend processing and generative AI**.
 
 ### Workflow
 
@@ -486,7 +478,7 @@ The project combines Computer Vision with game development to create an alternat
 
 The system interprets hand movement and finger positioning as interactive input.
 
-One of the key interactions is using the relationship between the **index and middle fingers** as a click-like gesture.
+The relationship between the **index and middle fingers** is used as a click-like interaction mechanism.
 
 ### Features
 
@@ -519,7 +511,7 @@ One of the key interactions is using the relationship between the **index and mi
 
 ### Modern C++ Terminal Game
 
-Terminal Serpent is a C++ implementation of the classic Snake game designed specifically around terminal-based interaction.
+Terminal Serpent is a C++ implementation of the classic Snake game designed around terminal-based interaction.
 
 Rather than relying on a graphical game framework, the project focuses on **real-time console input, rendering and systems-level programming concepts**.
 
@@ -543,7 +535,7 @@ Rather than relying on a graphical game framework, the project focuses on **real
 
 - Game loops
 - Real-time input handling
-- Memory and state management
+- State management
 - Collision systems
 - Randomized game events
 - Terminal rendering
@@ -551,13 +543,13 @@ Rather than relying on a graphical game framework, the project focuses on **real
 
 ---
 
-# 🏆 Achievement — Smart Water Monitoring ML Competition
+# 🏆 Smart Water Monitoring — National ML Achievement
 
 ## 🥇 Top 60 Nationally
 
-Smart Water Monitoring is one of my key **Machine Learning achievements** rather than one of my primary portfolio projects.
+Smart Water Monitoring is one of my key **Machine Learning achievements**.
 
-The system focused on predicting household water consumption using real-world sensor data.
+The project focused on predicting household water consumption using real-world sensor data.
 
 ### Dataset
 
@@ -615,7 +607,7 @@ R²   : 0.9772
 
 ---
 
-## 🧠 Artificial Intelligence & Machine Learning
+# 🧠 Artificial Intelligence & Machine Learning
 
 <p align="center">
 
@@ -623,51 +615,39 @@ R²   : 0.9772
 
 </p>
 
-`Machine Learning` · `Deep Learning` · `TensorFlow` · `PyTorch`
+### Core Areas
 
-### Areas
-
+- Machine Learning
+- Deep Learning
 - Supervised Learning
-- Model Evaluation
-- Feature Engineering
 - Classification
 - Regression
-- Deep Learning
+- Feature Engineering
+- Model Evaluation
 - AI Application Integration
+- Generative AI
 - LLM Applications
 - AI Agents
 
 ---
 
-# 👁️ Computer Vision
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
-
-</p>
-
-`OpenCV` · `MediaPipe` · `Image Processing` · `Gesture Recognition` · `Real-Time Vision`
-
----
-
 # 🤖 Generative AI & AI Agents
 
-My recent projects increasingly combine traditional software engineering with generative AI systems.
+My recent projects combine traditional software engineering with generative AI systems.
 
-### Technologies / Concepts
+### Technologies & Concepts
 
 - LLM-powered applications
 - AI Agents
 - LangChain
 - Groq
-- Prompt-driven application logic
 - Context-aware generation
+- Prompt-driven application logic
 - AI-powered recommendation systems
-- Speech-to-text
-- Text-to-speech
+- Speech-to-Text
+- Text-to-Speech
 
-### Projects
+### Applications
 
 ```text
 VoxHire
@@ -681,6 +661,18 @@ EchoBasket
 CalQulate
    └── AI Nutrition Analysis
 ```
+
+---
+
+# 👁️ Computer Vision
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
+
+</p>
+
+`OpenCV` · `MediaPipe` · `Image Processing` · `Gesture Recognition` · `Real-Time Vision` · `OCR`
 
 ---
 
@@ -706,7 +698,7 @@ CalQulate
 
 </p>
 
-`Node.js` · `Go` · `Gin` · `Flask` · `REST APIs`
+`Go` · `Gin` · `Node.js` · `Flask` · `REST APIs`
 
 ---
 
@@ -726,8 +718,7 @@ CalQulate
 
 - JWT Authentication
 - Role-Based Access Control
-- Authentication workflows
-- Authorization
+- Authorization workflows
 - Protected APIs
 - User/session management
 
@@ -828,39 +819,45 @@ CalQulate
 
 ---
 
-# 🏅 LeetCode Badge Collection
+# 🏅 Featured LeetCode Badges
 
-### Submission Day Badges
+<p align="center">
 
-| Badge | Status / Date |
-|---|---|
-| 🟢 **500 Days Badge** | **Active** |
-| 🟡 **365 Days Badge** | December 2, 2024 |
-| 🟢 **50 Days Badge** | July 18, 2026 |
-| 🟢 **50 Days Badge** | February 20, 2025 |
-| 🟢 **50 Days Badge** | February 26, 2024 |
-| 🔵 **50 Days Badge** | December 15, 2023 |
+<a href="https://leetcode.com/medal/?showImg=0&id=6658646&isLevel=false">
+<img src="https://assets.leetcode.com/static_assets/marketing/lg500.png" width="105"/>
+</a>
 
-### Annual Medals
+<a href="https://leetcode.com/medal/?showImg=0&id=5618315&isLevel=false">
+<img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="105"/>
+</a>
 
-| Badge | Date |
-|---|---|
-| 🟡 **2025 Annual Badge** | October 29, 2025 |
-| 🟣 **2025 200 Days Badge** | July 20, 2025 |
-| 🔵 **2025 100 Days Badge** | April 10, 2025 |
-| 🟡 **2024 Annual Badge** | November 18, 2024 |
-| 🟣 **2024 200 Days Badge** | August 11, 2024 |
-| 🔵 **2024 100 Days Badge** | April 17, 2024 |
+<a href="https://leetcode.com/medal/?showImg=0&id=8508291&isLevel=false">
+<img src="https://assets.leetcode.com/static_assets/marketing/2025-200-lg.png" width="105"/>
+</a>
 
-### Monthly Daily Challenge Badges
+<a href="https://leetcode.com/medal/?showImg=0&id=7595676&isLevel=false">
+<img src="https://assets.leetcode.com/static_assets/marketing/2025-100-lg.png" width="105"/>
+</a>
 
-#### 2025
+<a href="https://leetcode.com/medal/?showImg=0&id=6783676&isLevel=false">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" width="105"/>
+</a>
 
-`January` · `February` · `March` · `April` · `May` · `June` · `July` · `August` · `September` · `October` · `November`
+<a href="https://leetcode.com/medal/?showImg=0&id=5464767&isLevel=false">
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="105"/>
+</a>
 
-#### 2024
+</p>
 
-`March` · `June` · `July` · `August` · `September` · `October` · `November` · `December`
+<p align="center">
+
+<a href="https://leetcode.com/u/Divyansh_Saxena/">
+<img src="https://img.shields.io/badge/View%20Complete%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+> Selected milestone badges are displayed above. Monthly and repeated 50-day badges are intentionally omitted to keep the profile focused on distinctive achievements.
 
 ---
 
@@ -871,22 +868,6 @@ CalQulate
 <a href="https://leetcode.com/u/Divyansh_Saxena/">
 
 <img src="https://leetcard.jacoblin.cool/Divyansh_Saxena?theme=dark&font=Baloo&ext=heatmap"/>
-
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Divyansh_Saxena/">
-
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="110"/>
-
-</a>
-
-<a href="https://leetcode.com/u/Divyansh_Saxena/">
-
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="110"/>
 
 </a>
 
@@ -925,7 +906,7 @@ CalQulate
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Google%20Cloud-Gen%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-Generative%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
 </p>
 
@@ -934,6 +915,8 @@ CalQulate
 **Completion Badge**
 
 **Earned:** October 14, 2025
+
+---
 
 ### 🤖 Gen AI: Beyond the Chatbot
 
@@ -946,7 +929,6 @@ CalQulate
 <a href="https://www.skills.google/profile/badges?credential_type=skill_badge">
 
 <img src="https://img.shields.io/badge/View%20Google%20Cloud%20Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
 </a>
 
 </p>
@@ -960,13 +942,11 @@ CalQulate
 <a href="https://www.credly.com/users/divyansh-saxena.e855abf6/badges#credly">
 
 <img src="https://img.shields.io/badge/Credly-Verified%20Credentials-FF9800?style=for-the-badge&logo=credly"/>
-
 </a>
 
 <a href="https://www.skills.google/profile/badges?credential_type=skill_badge">
 
 <img src="https://img.shields.io/badge/Google%20Cloud-Skill%20Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
 </a>
 
 </p>
@@ -1053,11 +1033,11 @@ CalQulate
 
 ---
 
-# 🚀 What I Want to Build
+# 🔭 What I'm Building Toward
 
 I'm interested in building systems where **AI, software engineering and real-world applications come together**.
 
-My long-term technical interests sit around:
+My technical direction sits at the intersection of:
 
 ```text
 AI / ML
@@ -1113,7 +1093,7 @@ The goal is not simply to build models or applications independently, but to und
 
 ## ⚡ Build. Experiment. Solve. Ship.
 
-### Engineering Intelligent Systems for Real-World Impact
+### **Engineering Intelligent Systems for Real-World Impact**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB86FC,100:00F7FF&height=120&section=footer"/>
 
